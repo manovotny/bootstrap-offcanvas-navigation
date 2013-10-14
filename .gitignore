@@ -1,0 +1,12 @@
+# Grunt
+/node_modules
+
+# IntelliJ
+.idea
+*.iml
+
+# OS X
+.DS_Store
+
+# PHP
+*.log
