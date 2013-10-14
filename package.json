@@ -1,0 +1,22 @@
+{
+    "name": "bootstrap-offcanvas-navigation",
+    "version": "1.0.0",
+    "description": "Offcanvas navigation for Bootstrap 3",
+    "author": "Michael Novotny <http://manovotny.com/>",
+    "homepage": "http://manovotny.github.io/bootstrap-offcanvas-navigation/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/manovotny/bootstrap-offcanvas-navigation.git"
+    },
+    "private": "true",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-bower-task": "~0.3.2",
+        "grunt-contrib-concat": "~0.3.0",
+        "grunt-contrib-less": "~0.7.0",
+        "grunt-contrib-uglify": "~0.2.2",
+        "grunt-contrib-watch": "~0.5.2",
+        "grunt-jslint": "~1.0.0",
+        "grunt-recess": "~0.4.0"
+    }
+}
