@@ -1,8 +1,8 @@
 {
     "name": "Bootstrap Offcanvas Navigation",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "main": ["dist/bootstrap-offcanvas-navigation.min.js", "dist/bootstrap-offcanvas-navigation.min.css"],
-    "dependencies": {
+    "devDependencies": {
         "bootstrap": "3.0.0",
         "fastclick": "0.6.10",
         "jquery": "2.0.3"
