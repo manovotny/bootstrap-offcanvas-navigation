@@ -1,5 +1,5 @@
 {
-    "name": "Bootstrap Offcanvas Navigation",
+    "name": "bootstrap-offcanvas-navigation",
     "version": "1.0.2",
     "main": ["dist/bootstrap-offcanvas-navigation.min.js", "dist/bootstrap-offcanvas-navigation.min.css"],
     "devDependencies": {
