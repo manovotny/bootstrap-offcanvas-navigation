@@ -1,7 +1,7 @@
 {
     "name": "bootstrap-offcanvas-navigation",
     "version": "1.0.0",
-    "description": "Offcanvas navigation for Bootstrap 3",
+    "description": "An old school Medium like off-canvas navigation menu built on Bootstrap 3",
     "author": "Michael Novotny <http://manovotny.com/>",
     "homepage": "http://manovotny.github.io/bootstrap-offcanvas-navigation/",
     "repository": {
